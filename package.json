@@ -1,0 +1,8 @@
+{
+  "name": "pi-rust-style-guide",
+  "version": "1.0.0",
+  "description": "Pi skill: Google's Rust Style Guide as actionable review rules",
+  "keywords": ["pi-package", "rust", "style-guide", "code-review"],
+  "license": "CC-BY-4.0",
+  "files": ["skills", "README.md", "LICENSE"]
+}
